@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\bin\Debug\Gerador de e-mail (exemplo fatec).exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\bin\Debug\Gerador de e-mail (exemplo fatec).exe
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\bin\Debug\Gerador de e-mail (exemplo fatec).pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\obj\Debug\Gerador de e-mail (exemplo fatec).csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\obj\Debug\Gerador de e-mail (exemplo fatec).csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\obj\Debug\Gerador de e-mail (exemplo fatec).csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\obj\Debug\Gerador de e-mail (exemplo fatec).exe
+C:\Users\pedro\OneDrive\Área de Trabalho\TECNOLOGIA\PROGRAMAS FEITOS\Gerador de e-mail (exemplo fatec)\Gerador de e-mail (exemplo fatec)\obj\Debug\Gerador de e-mail (exemplo fatec).pdb
